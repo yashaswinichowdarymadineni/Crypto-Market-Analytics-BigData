@@ -1,7 +1,6 @@
 # Crypto Market Analytics with Big Data
 
-Analyzed **48GB of Binance cryptocurrency trading data (2020–2024)** using **AWS EC2, Databricks, Apache Spark, Pandas, PyArrow, SQL, and Tableau** to uncover cryptocurrency market dynamics.  
-Built scalable big data pipelines for **data cleaning, preprocessing, and transformation**, followed by **volatility analysis, trading volume patterns, and liquidity insights**, with interactive dashboards for visualization.
+Analyzed **48GB of Binance cryptocurrency trading data (2020–2024)** using **AWS EC2, Databricks, Apache Spark, Pandas, PyArrow, SQL, and Tableau** to uncover cryptocurrency market dynamics. Built scalable big data pipelines for **data cleaning, preprocessing, and transformation**, followed by **volatility analysis, trading volume patterns, and liquidity insights**, with interactive dashboards for visualization.
 
 ---
 
