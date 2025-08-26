@@ -1,5 +1,3 @@
-# Crypto-Market-Analytics-BigData
-
 # Crypto Market Analytics with Big Data
 
 Analyzed **48GB of Binance cryptocurrency trading data ** using **AWS EC2, Databricks, Apache Spark, Pandas, PyArrow, SQL, and Tableau** to uncover cryptocurrency market dynamics.  
